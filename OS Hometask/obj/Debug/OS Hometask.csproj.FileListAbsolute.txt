@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\OS Hometask\bin\Debug\OS Hometask.exe.config
+C:\Users\User\source\repos\OS Hometask\bin\Debug\OS Hometask.exe
+C:\Users\User\source\repos\OS Hometask\bin\Debug\OS Hometask.pdb
+C:\Users\User\source\repos\OS Hometask\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\OS Hometask\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OS Hometask\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\OS Hometask\obj\Debug\App.g.cs
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask_MarkupCompile.cache
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask_MarkupCompile.lref
+C:\Users\User\source\repos\OS Hometask\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.g.resources
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS_Hometask.Properties.Resources.resources
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.csproj.CopyComplete
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.exe
+C:\Users\User\source\repos\OS Hometask\obj\Debug\OS Hometask.pdb
+C:\Users\User\source\repos\OS Hometask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\OS Hometask\bin\Debug\Newtonsoft.Json.xml
