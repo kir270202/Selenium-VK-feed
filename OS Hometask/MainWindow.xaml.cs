@@ -30,7 +30,7 @@ namespace OS_Hometask
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             ChromeOptions chromeOptions = new ChromeOptions();
-            chromeOptions.AddArgument(@"user-data-dir=C:\Users\User\AppData\Local\Google\Chrome\User Data");
+            chromeOptions.AddArgument(@"user-data Chrome directory");
             ChromeDriver chromeDriver = new ChromeDriver(chromeOptions);
             chromeDriver.Navigate().GoToUrl("https://vk.com/feed");
             IWebElement Parent = chromeDriver.FindElementById("feed_rows");
